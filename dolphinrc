@@ -1,0 +1,27 @@
+[CompactMode]
+FontWeight=50
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+RememberOpenedTabs=false
+Version=201
+ViewPropsTimestamp=2022,7,8,16,24,41.151
+
+[IconsMode]
+FontWeight=50
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail
