@@ -1,3 +1,26 @@
-2022/07/12-09:27:06.180 39f Reusing MANIFEST /home/lain/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/07/12-09:27:06.186 39f Recovering log #10
-2022/07/12-09:27:06.187 39f Reusing old log /home/lain/.config/discord/Local Storage/leveldb/000010.log 
+2022/07/12-23:13:20.668 3a4 Reusing MANIFEST /home/lain/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/07/12-23:13:20.681 3a4 Recovering log #10
+2022/07/12-23:13:20.688 3a4 Level-0 table #13: started
+2022/07/12-23:13:20.691 3a4 Level-0 table #13: 15031 bytes OK
+2022/07/12-23:13:20.696 3a4 Delete type=0 #10
+2022/07/13-00:09:45.931 3a5 Level-0 table #16: started
+2022/07/13-00:09:45.937 3a5 Level-0 table #16: 13414 bytes OK
+2022/07/13-00:09:45.941 3a5 Delete type=0 #14
+2022/07/13-00:54:45.931 3a5 Level-0 table #18: started
+2022/07/13-00:54:45.936 3a5 Level-0 table #18: 9412 bytes OK
+2022/07/13-00:54:45.940 3a5 Delete type=0 #15
+2022/07/13-00:54:45.940 3a5 Compacting 4@0 + 1@1 files
+2022/07/13-00:54:45.945 3a5 Generated table #19@0: 75 keys, 500451 bytes
+2022/07/13-00:54:45.945 3a5 Compacted 4@0 + 1@1 files => 500451 bytes
+2022/07/13-00:54:45.948 3a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/13-00:54:45.949 3a5 Delete type=2 #8
+2022/07/13-00:54:45.949 3a5 Delete type=2 #11
+2022/07/13-00:54:45.949 3a5 Delete type=2 #13
+2022/07/13-00:54:45.949 3a5 Delete type=2 #16
+2022/07/13-00:54:45.949 3a5 Delete type=2 #18
+2022/07/13-01:47:11.225 479 Level-0 table #21: started
+2022/07/13-01:47:11.231 479 Level-0 table #21: 17705 bytes OK
+2022/07/13-01:47:11.235 479 Delete type=0 #17
+2022/07/13-01:47:19.604 3a5 Level-0 table #23: started
+2022/07/13-01:47:19.611 3a5 Level-0 table #23: 481635 bytes OK
+2022/07/13-01:47:19.615 3a5 Delete type=0 #20

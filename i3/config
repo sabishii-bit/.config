@@ -10,6 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 set $mod Mod4
+for_window [instance="floating"] floating enabled
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -67,7 +68,7 @@ exec --no-startup-id i3-msg 'workspace 4:四; exec discord'
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec alacritty --class floating
 
 # kill focused window
 bindsym $mod+q kill
