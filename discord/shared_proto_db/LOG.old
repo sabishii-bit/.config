@@ -1,2 +1,3 @@
-2022/07/11-13:21:03.132 caf Creating DB /home/lain/.config/discord/shared_proto_db since it was missing.
-2022/07/11-13:21:03.138 caf Reusing MANIFEST /home/lain/.config/discord/shared_proto_db/MANIFEST-000001
+2022/07/11-14:15:10.881 4b0b Reusing MANIFEST /home/lain/.config/discord/shared_proto_db/MANIFEST-000001
+2022/07/11-14:15:10.881 4b0b Recovering log #3
+2022/07/11-14:15:10.881 4b0b Reusing old log /home/lain/.config/discord/shared_proto_db/000003.log 
